@@ -32,4 +32,4 @@ https://azun510.github.io/mvc-techblog/
 ^ Github Repository
 
 ## Screenshots
-
+![alt text](https://github.com/azun510/mvc-techblog/blob/main/images/Dashboard.JPG)
