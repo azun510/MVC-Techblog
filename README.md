@@ -33,3 +33,5 @@ https://azun510.github.io/mvc-techblog/
 
 ## Screenshots
 ![alt text](https://github.com/azun510/mvc-techblog/blob/main/images/Dashboard.JPG)
+
+![alt text](https://github.com/azun510/mvc-techblog/blob/main/images/homepage.JPG)
